@@ -24,7 +24,11 @@ It highlights my profile, skills, projects, and contact form using modern web de
 ---
 
 
-📖 References & Acknowledgements
+---
+
+## 📖 References & Acknowledgements
 - Guidance and troubleshooting support from Microsoft Copilot 🤖
 - Tutorials and practical coding tips from CodeWithHarry (YouTube & Blog) 🎥
-- Free resources for fonts and icons from Google Fonts and Unsplash
+- Free resources for fonts and icons from Google Fonts
+
+---
