@@ -24,8 +24,6 @@ It highlights my profile, skills, projects, and contact form using modern web de
 ---
 
 
----
-
 ## 📖 References & Acknowledgements
 - Guidance and troubleshooting support from Microsoft Copilot 🤖
 - Tutorials and practical coding tips from CodeWithHarry (YouTube & Blog) 🎥
